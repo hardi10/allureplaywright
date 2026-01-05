@@ -1,0 +1,14 @@
+{
+  "name": "allureplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "harshadinesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
