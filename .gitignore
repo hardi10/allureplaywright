@@ -10,3 +10,5 @@ node_modules/
 example.*
 *.log
 .env
+githubkey
+githubkey.pub
